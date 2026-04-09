@@ -4,8 +4,7 @@
 
 This repository is the official implementation containing the source code and datasets for the paper:
 
-**"Structure-Adaptive Conformal Recommendation: Knowledge Graph Topology as an Evidential Prior for Tighter Prediction Sets"** 
-*(Currently under consideration at Knowledge-Based Systems)*.
+**"Structure-Adaptive Conformal Recommendation: Knowledge Graph Topology as an Evidential Prior for Tighter Prediction Sets"**.
 
 ## Important Notice: Code & Data Availability
 
